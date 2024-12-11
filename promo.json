@@ -1,4 +1,4 @@
 {
-    "RIDE10": { discount: 0.1 },
-    "DELIVERY15": { discount: 0.15 }
+    "RIDE10": 0.1,
+    "DELIVERY15": 0.15
 }
